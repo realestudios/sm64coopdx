@@ -1,3 +1,15 @@
+This fork contains customizations to the original project to more closely resemble parts of the original sm64ex-coop, while maintaining compatibility with new features and mods.
+
+## Changes
+
+- Fixed error in Makefile causing a compiler error
+- Includes Luigi voice clips from sm64ex-coop instead of new ones
+- Includes custom player palattes
+- Includes original Extended Moveset (the one that works with doors) and Character Moveset mods from sm64ex-coop
+
+
+## Original ReadMe:
+
 ![sm64coopdx Logo](textures/segment2/custom_coopdx_logo.rgba32.png)
 
 sm64coopdx is an online multiplayer project for the Super Mario 64 PC port that synchronizes all entities and every level for multiple players. The project was started by the Coop Deluxe Team. The purpose is to actively maintain and improve, but also continue sm64ex-coop, created by djoslin0. More features, customization, and power to the Lua API allow modders and players to enjoy Super Mario 64 more than ever!
